@@ -12,6 +12,10 @@ Aplicação desenvolvida em Python com interface gráfica para gerenciamento de 
 - Alerta de estoque baixo
 - Salvamento automático em arquivo
 
+  ## 📸 Demonstração
+
+![Sistema](print.png)
+
 ## 💻 Tecnologias utilizadas
 
 - Python
@@ -24,8 +28,7 @@ Aplicação desenvolvida em Python com interface gráfica para gerenciamento de 
 2. Baixe este repositório
 3. Execute o arquivo:
 
+
+
 ```bash
 python estoque_interface.py
-## 📸 Demonstração
-
-![Sistema](print.png)
